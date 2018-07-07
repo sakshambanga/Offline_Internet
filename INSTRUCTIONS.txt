@@ -1,0 +1,26 @@
+Offline Internet:
+Purpose: Provide an Offline Internet for all those who do not have access to internet services. We aim to provide basic functionalities which are listed in the examples below
+
+Example Features:
+
+Chatbot for random smalltalk
+Search Rajasthan
+Alert Message Capabilities
+Weather Bhilwara,Rajasthan
+Weather (Enter Pincode/Location)
+Currency rate conversion(Enter From USD TO INR 25 and it converts it to latest INR) 
+
+To use, please install the following requirements through pip or appropriate installer
+
+1. python Wikipedia library
+2. Twilio
+3. Api.ai
+4. Flask
+5. Pyowm
+
+After which the secret keys for the Twilio account can be added in the the first.py file. 
+Once that is done, message Twilio at the number purchased for the service.
+
+
+
+
