@@ -13,6 +13,7 @@ from twilio.rest import TwilioRestClient
 # lang = 'simple'
 # wiki = Wikipedia(lang)
 
+#This is an offline internet program running on Twilio platform
 
 # Twilio account info
 account_sid = "AC11ba____________________96e87003"
